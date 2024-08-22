@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">pruebaBrillamosTodas2</string>
+    <string name="title_home">Menú Principal</string>
+    <string name="title_redes">Redes</string>
+    <string name="title_blogs">Blogs</string>
+    <string name="title_foros">Foros</string>
+    <string name="title_tienda">Tienda</string>
+    <string name="title_calendar">Calendario</string>
+    <string name="title_perfil">Perfil</string>
+</resources>
